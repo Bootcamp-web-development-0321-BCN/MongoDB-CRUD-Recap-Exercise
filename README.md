@@ -116,6 +116,18 @@ mongoimport --db=ironhack-inc --collection=employees --file=employees.json --jso
 
 ## ***
 
+
+
+<br>
+
+
+
+### Query the database
+
+
+
+
+
 Once you have inserted the above documents in the collection `employees`  use your `mongo` shell to perform the following queries:
 
 
