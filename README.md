@@ -32,14 +32,6 @@ cd MongoDB-CRUD-Recap-Exercise
 
 
 
-<br>
-
-
-
-In case that you decided to experiment during the lecture and have dropped your previous database that included the collection of `employees`,  follow the *Task 1* and *Task 2* steps below to create a new database with the `employees` collection and populate it again with the new documents.
-
-------
-
 
 <br>
 
