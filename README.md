@@ -25,7 +25,7 @@ First, clone this repository as you will use it to import the data from the file
 
 
 ```bash
-git clone https://github.com/ross-u/MongoDB-CRUD-Recap-Exercise.git
+git clone https://github.com/Bootcamp-web-development-0321-BCN/MongoDB-CRUD-Recap-Exercise.git
 
 cd MongoDB-CRUD-Recap-Exercise
 ```
